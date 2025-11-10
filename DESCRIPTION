@@ -1,0 +1,9 @@
+Package: Rfunctions
+Title: Functions for outliers and PRE calculation (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: person("Dominique", "Muller", email = "muller.dom@gmail.com", role = c("aut", "cre"))
+Description: Computes three outliers indexes (RRS, Lever, Cook D) and the PRE.
+License: 
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
