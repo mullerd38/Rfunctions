@@ -1,4 +1,4 @@
-Package: Rfunctions
+Package: MCARfunctions
 Title: Functions for outliers and PRE calculation (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: person("Dominique", "Muller", email = "muller.dom@gmail.com", role = c("aut", "cre"))
